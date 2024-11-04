@@ -1,0 +1,15 @@
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+  }
+@media (max-width: 768px) {
+    header {
+      font-size: 1.5em;
+    }
+  
+    .season-card {
+      width: 100%;
+      margin: 5px;
+      padding: 10px;
+    }
+  }
